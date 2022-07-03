@@ -14,7 +14,7 @@
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: HAPPY MOMENTS..
 
-<br>
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it-21360978&label=Profile%20views&color=0e75b6&style=flat" alt="it-21360978" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it-21360978" alt="it-21360978" /></a> </p>
@@ -35,11 +35,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it-21360978&show_icons=true&locale=en&layout=compact" alt="it-21360978" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it-21360978&show_icons=true&locale=en" alt="it-21360978" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=it-21360978&show_icons=true&locale=en" alt="it-21360978" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it-21360978&" alt="it-21360978" /></p>
 
 <br />
 <br />
----
 
