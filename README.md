@@ -1,6 +1,6 @@
 ### Hello There!, I'm Gihan  👋
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="500" height="320" />
 
 
 
@@ -15,8 +15,10 @@
 
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Talk with me friends:
+[<img align="left"| LinkedIn" width="22px" src="https://www.flaticon.com/premium-icon/linkedin_3536505?term=social%20media&page=1&position=29&page=1&position=29&related_id=3536505&origin=tag" />][linkedin]
+
+[<img align="left"| Instagram" width="22px" src="https://www.flaticon.com/free-icon/instagram_2111463?term=social%20media&page=1&position=2&page=1&position=2&related_id=2111463&origin=tag" />][Instagram]
 
 <br />
 
