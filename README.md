@@ -39,5 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it-21360978&" alt="it-21360978" /></p>
 
-
+![gitartwork](gitartwork.svg)
 ![snake gif](https://github.com/it-21360978/it-21360978/blob/output/github-contribution-grid-snake.gif)
