@@ -1,7 +1,7 @@
 ### Hello There!, I'm Gihan  👋
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+THERE!+👋;+MYSELF+GIHAN+SERASINGHE!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+THERE!+👋;+MYSELF+GIHAN+SERASINGHE!;+IT+UNDERGRADUATE👨‍🎓;&center=true&size=30">
   </a>
 </h1>
 
