@@ -1,4 +1,9 @@
 ### Hello There!, I'm Gihan  👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+THERE!+👋;+MYSELF+GIHAN+SERASINGHE!;&center=true&size=30">
+  </a>
+</h1>
 
 <h3 align="center">IT | UNDERGRADUATE</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
