@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on my Course.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning MERN.
 - 👯 I’m looking to collaborate on Open Source.
 - 🤔 I’m looking for help with Dockers.
 - 💬 Ask me about ... Anything
