@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on my Course.
 - 🌱 I’m currently learning MERN and KOTLIN.
 - 👯 I’m looking to collaborate on Open Source.
-- 🤔 I’m looking for help with Dockers.
+- 🤔 I’m looking for help with Dockers and Cognative Services.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: HAPPY MOMENTS..
