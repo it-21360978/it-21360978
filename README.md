@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">IT | UNDERGRADUATE</h3>
+<h3 align="center">IT | UNDERGRADUATE</h3> <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
 
 
