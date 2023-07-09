@@ -28,8 +28,8 @@
 
 ### Talk with me friends:
 <p align="left">
-<a href="https://linkedin.com/in/gihan-serasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihan-serasinghe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gihanxeno__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_era._" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gihan-serasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihan-serasinghe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_gihanx.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_era._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gihan-sera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gihan-sera" height="30" width="40" /></a>
 </p>
 <br>
