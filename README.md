@@ -3,7 +3,8 @@
 <h3 align="center">IT | UNDERGRADUATE | FULL STACK DEVELOPER</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it-21360978&label=Profile%20views&color=0e75b6&style=flat" alt="it-21360978" /> </p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" height="300" />
 
 
 
