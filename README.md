@@ -11,7 +11,7 @@
 # 💫 About Me:
 - 🔭 I am currently working as a front-end developer.
 - 🌐 Web Developer Intern at Nova Tech Zone.
-- 📚 3rd Year Undergraduate Student.
+- 📚 4th Year Undergraduate Student.
 - 🌱 I'm currently learning about new technologies.
 - 👯 I’m looking to collaborate on Open Source.
 - 🤔 I'm looking for help with artificial intelligence services.
