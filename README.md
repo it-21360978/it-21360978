@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-- 🔭 I am currently working as a front-end developer.
+- 🔭 I am currently working as a software developer.
 - 🌐 Web Developer Intern at Nova Tech Zone.
 - 📚 4th Year Undergraduate Student.
 - 🌱 I'm currently learning about new technologies.
