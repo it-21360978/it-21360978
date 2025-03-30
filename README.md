@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Gihan Serasinghe</h1>
-<h3 align="center">IT UNDERGRADUATE | FULL STACK DEVELOPER | UI/UX Designer | Mobile App Developer </h3>
+<h3 align="center">IT UNDERGRADUATE | FULL STACK DEVELOPER | UI/UX DESIGNER | MOBILE APP DEVELOPER </h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it-21360978&label=Profile%20views&color=0e75b6&style=flat" alt="it-21360978" /> </p>
 
