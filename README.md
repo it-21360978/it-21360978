@@ -162,22 +162,22 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=it-21360978&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gihandev&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=it-21360978&theme=default&hide_border=true" alt="GitHub Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gihandev&theme=default&hide_border=true" alt="GitHub Streak Stats">
     </td>
   </tr>
 </table>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=it-21360978&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gihandev&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 <br/>
 
 <h2> 🏆 GitHub Trophies </h2>
 
-![](https://github-profile-trophy.vercel.app/?username=it-21360978&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Gihandev&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
 <br/>
 <br/>
@@ -185,18 +185,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">🔝 Statistics </h2>
 <div align="center">
-<a href="https://github.com/it-21360978">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=it-21360978&theme=apprentice" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=it-21360978&theme=apprentice" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=it-21360978&theme=apprentice" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=it-21360978&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-21360978&theme=algolia" height="180em" />
+<a href="https://github.com/Gihandev">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gihandev&theme=apprentice" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gihandev&theme=apprentice" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gihandev&theme=apprentice" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gihandev&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gihandev&theme=algolia" height="180em" />
 </div>
 <br/>
 <br/>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=it-21360978&theme=github-compact"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Gihandev&theme=github-compact"/>
 
 
 <br/>
